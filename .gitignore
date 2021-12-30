@@ -1,3 +1,9 @@
+# Files and artefats of Visual Studio
+*.vs
+MyFirstContinuousIntegration/MyFirstContinuousIntegration/bin
+MyFirstContinuousIntegration/MyFirstContinuousIntegration/obj
+
+
 # Prerequisites
 *.d
 
