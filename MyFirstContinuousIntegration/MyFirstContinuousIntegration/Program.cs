@@ -8,7 +8,7 @@ namespace MyFirstContinuousIntegration
         {
             Console.WriteLine("Hello World Jenkins!");
 
-            Console.WriteLine("Teste!");
+            Console.WriteLine("Teste 2!");
 
             Console.ReadKey();
         }
