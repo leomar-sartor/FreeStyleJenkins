@@ -8,6 +8,8 @@ namespace MyFirstContinuousIntegration
         {
             Console.WriteLine("Hello World Jenkins!");
 
+            Console.WriteLine("Teste!");
+
             Console.ReadKey();
         }
     }
